@@ -50,3 +50,9 @@ They resolve the data that the API user has requested. There're two kinds of res
 
 1. Play with the Apollo server playground.
 2. Read more about GraphQL on: 1. <https://www.apollographql.com/docs/apollo-server/schema/schema/>; 2. <https://graphql.org/learn/schema/>;
+
+### Chapter 5 - Database
+
+To start `mongodb` in the terminal, `brew services start`
+
+1. Read mongodb docs:
