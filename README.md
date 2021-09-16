@@ -56,3 +56,13 @@ They resolve the data that the API user has requested. There're two kinds of res
 To start `mongodb` in the terminal, `brew services start`
 
 1. Read mongodb docs:
+
+### Chapter 6 - CRUD Operations
+
+Add create, read, update and delete functionality to API.
+
+1. What's the difference between `mongodb` and `mongoose`?
+
+2. What's the difference between `mongodb` and `graphql`?
+3. `$set` operator in `mutation`
+4. `timestamps` option in `noteSchema`
